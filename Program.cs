@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//four branch 
+//first branch - palindrome
+//second branch - 3D
+//third branch - cube
+
+
